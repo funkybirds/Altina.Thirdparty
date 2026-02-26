@@ -1,3 +1,6 @@
 [submodule "assimp"]
 	path = assimp
 	url = https://github.com/funkybirds/assimp.git
+[submodule "tinyusdz"]
+	path = tinyusdz
+	url = https://cdn.gh-proxy.org/https://github.com/funkybirds/tinyusdz.git
